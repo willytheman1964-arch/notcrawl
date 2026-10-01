@@ -1,4 +1,4 @@
-db_path = "~/.notcrawl/notcrawl.db"
+not sure db_path = "~/.notcrawl/notcrawl.db"
 cache_dir = "~/.notcrawl/cache"
 markdown_dir = "~/.notcrawl/pages"
 
